@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './Counter.css';
+// import './Counter.css';
 
 function CounterFunction() {
     const [count, setCount] = useState(0);

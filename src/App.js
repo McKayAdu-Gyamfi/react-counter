@@ -1,11 +1,13 @@
 import './App.css';
-import CounterFunction from './components/CounterFunction';
+import ClassCounter from './components/ClassCounter';
+// import CounterFunction from './components/CounterFunction';
 
 
 function App() {
   return (
     <div className="App">
-      <CounterFunction/>
+    <ClassCounter/>
+      
     </div>
   );
 }
